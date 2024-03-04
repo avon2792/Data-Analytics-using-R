@@ -1,1 +1,1 @@
-# Data-Analytics-using-R
+This analytics project uses R Studio to look at a public data source that provides information from public health survey. I have chosen a select few of those features and performed analytics like outlier visualization and removal, data cleaning, exploratory analysis and descriptive statistics. Disregard instructions from the professor unless you find them useful as explanation.
